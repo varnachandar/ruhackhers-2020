@@ -39,7 +39,7 @@ a:hover{
   box-shadow: 0 0 5px 0 #8b79bc;
   margin-bottom: 0;
   text-align: center;
-  font-family: 'Montserrat'; sans-serif;
+  font-family: 'Montserrat' ;
   font-size: 18px;
   font-weight: 600;
   text-transform: lowercase;
@@ -322,7 +322,7 @@ each section will be a gradient*/
 
 #saturday, #sunday{
   font-size: 24px;
-  color: #f9f9f9
+  color: #f9f9f9;
   margin-bottom: 50px 0;
 }
 
