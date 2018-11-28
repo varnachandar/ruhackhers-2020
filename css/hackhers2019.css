@@ -3,13 +3,19 @@
 }
 
 a{
-  color:#baacdd;
+  text-decoration: #0a4e6b;
+}
+
+b{
+  text-decoration: #0a4e6b;
+  font-weight: bold;
 }
 
 a:hover{
   transition: all .3s ease-in-out;
   text-decoration: none;
-  color: #fcb9f9;
+  color: #0a4e6b;
+  font-weight: bold;
 }
 
 
@@ -141,9 +147,9 @@ section {
 section h1{
   font-size: 3em;
   margin-top: -4rem;
-  padding-top: 50px;
+  padding-top: 10px;
   font-weight: 600;
-  text-transform: lowercase;
+  /*text-transform: lowercase;*/
 
 }
 
@@ -153,6 +159,7 @@ section h1{
   text-align: center;
 
 }
+
 
 
 
