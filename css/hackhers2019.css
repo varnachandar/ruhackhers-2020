@@ -318,7 +318,7 @@ each section will be a gradient*/
   color: #9783c0;
   font-size: 22px;
   font-weight: 600;
-  text-transform: lowercase;
+  text-transform: none;
   margin-bottom: 5px;
 }
 
@@ -571,7 +571,7 @@ each section will be a gradient*/
   color: #f9f9f9;
   font-weight: 400;
   font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-transform: lowercase;
+  text-transform: none;
 
 }
 
@@ -635,14 +635,14 @@ footer a:hover{
     margin-top:15px;
     margin-right:15px;
     margin-bottom:8px;
-    background-color:#9783c0;
+    background-color:#213355;
     background-image:none;
-    border:3px solid #8b79bc;
+    border:3px solid #213355;
     border-radius:4px
   }
 
   .navbar-toggle:hover{
-    background-color:#8b79bc;
+    background-color:#213355;
     color: #f9f9f9;
     transition: all .3s ease-in-out;
   }
@@ -656,7 +656,7 @@ footer a:hover{
     padding: 0px;
     width: 100%;
     margin: -8px 0 0 0;
-    background-color:#9783c0;
+    background-color:#213355;
     height: 100%;
     overflow:hidden;
 
@@ -728,7 +728,7 @@ footer a:hover{
 	#faq .faq-box{
     	margin: 20px 0;
     	min-width: 320px;
-      	height: 100%;
+      height: 100%;
     	text-align: left;
 
   }
@@ -810,7 +810,7 @@ footer a:hover{
     padding: 0px;
     width: 100%;
     margin: -8px 0 0 0;
-    background-color:#9783c0;
+    background-color:#213355;
     height: 100%;
     overflow:hidden;
 
@@ -818,13 +818,13 @@ footer a:hover{
 
   .navbar-toggle{
   	margin-top: 20px;
-    background-color:#9783c0;
-    border:3px solid #8b79bc;
+    background-color:#213355;
+    border:3px solid #213355;
     border-radius:4px
   }
   
   .navbar-toggle:hover{
-    background-color:#8b79bc;
+    background-color:#213355;
     color: #f9f9f9;
     transition: all .3s ease-in-out;
   }
