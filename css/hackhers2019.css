@@ -145,6 +145,7 @@ section h1{
   margin-top: -4rem;
   padding-top: 10px;
   font-weight: 600;
+  color: #9783c0;
   /*text-transform: lowercase;*/
 
 }
@@ -168,7 +169,7 @@ each section will be a gradient*/
     background: -o-linear-gradient(#e2f7ff, #a5d1e0); /* For Opera 11.1 to 12.0 */
     background: -moz-linear-gradient(#e2f7ff, #a5d1e0); /* For Firefox 3.6 to 15 */
     background: linear-gradient(#e2f7ff, #a5d1e0);
-    color: #9783c0;
+    color: #685d80;
 
 }
 
@@ -178,7 +179,7 @@ each section will be a gradient*/
   background: -o-linear-gradient(#a5d1e0, #67a3b9); /* For Opera 11.1 to 12.0 */
   background: -moz-linear-gradient(#a5d1e0, #67a3b9); /* For Firefox 3.6 to 15 */
   background: linear-gradient(#a5d1e0, #67a3b9);
-  color: #9783c0;
+  color: #685d80;
 }
 
 #schedule{
@@ -196,7 +197,7 @@ each section will be a gradient*/
   background: -o-linear-gradient(#406370, #3d3f41); /* For Opera 11.1 to 12.0 */
   background: -moz-linear-gradient(#406370, #3d3f41); /* For Firefox 3.6 to 15 */
   background: linear-gradient(#406370, #3d3f41);
-  color: #9783c0;
+  color: #685d80;
   text-transform: lowercase;
 }
 
@@ -207,7 +208,7 @@ each section will be a gradient*/
   background: -o-linear-gradient(#3d3f41, #202020); /* For Opera 11.1 to 12.0 */
   background: -moz-linear-gradient(#3d3f41, #202020); /* For Firefox 3.6 to 15 */
   background: linear-gradient(#3d3f41, #202020);
-  color: #9783c0;
+  color: #685d80;
 
 }
 
@@ -324,6 +325,10 @@ each section will be a gradient*/
 /*schedule related styling*/
 
 
+#schedule h1 {
+	color: #9783c0;
+}
+
 #saturday, #sunday{
   font-size: 24px;
   color: #f9f9f9;
@@ -371,7 +376,7 @@ each section will be a gradient*/
 /* sponsors styling*/
 
 #sponsors h1 {
-	color: #f9f9f9;
+	color: #9783c0;
 }
 
 #sponsors h3, #sponsors h4{
@@ -460,7 +465,7 @@ each section will be a gradient*/
 }
 
 #get-involved h1 {
-	color: #f9f9f9;
+	color: #9783c0;
 }
 
 #get-involved a{
@@ -473,32 +478,35 @@ each section will be a gradient*/
 #get-involved .btn {
 	padding: 20px;
 	margin: 20px;
-	background-color:#e2f7ff;
-	border: 3px solid #e2f7ff;
+	background-color:#8b79bc;
+	border: 3px  #8b79bc;
 	opacity: .95;
 	border-radius: 15px;
 	text-align: center;
-	box-shadow: 0 2px 2px  #090909;
+  box-shadow: 0 2px 2px  #090909;
+  font-weight: bold;
+  color: white;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 #get-involved .btn:hover{
-    background-color:#8b79bc;
-    border-color:#8b79bc;
-	color: #f7d5f7;
+    background-color:#756c8d;
+    border-color:#756c8d;
+	color: #756c8d;
 	transition: all .3s ease-in-out;
 }
 
 
 #get-involved .hacker-reg, #get-involved .help-reg{
-	
 	width: 100%;
-	display: inline-block;
+  display: inline-block;
+  color: blue;
 }
 
 /*team styling*/
 
 #team h1 {
-	color: #f9f9f9;
+	color: #9783c0;
 }
 
 #team .row{
@@ -567,19 +575,6 @@ footer a:hover{
     padding: 20px;
 }
 
-#sea-monsters{
-	width: 100%;
-	height: 100%;
-}
- #sea-monsters #one{
- 	float: left;
- 	margin: 20px;
- }
- 
- #sea-monsters #two{
- 	float: right;
- 	margin: 20px;
- }
 
 #footer-credits{
 	color: #ffffff;
@@ -705,7 +700,7 @@ footer a:hover{
       	height: 100%;
     	text-align: left;
 
-	}
+  }
 
 
   #faq .row .half-left, #faq .row .half-right{
@@ -971,11 +966,44 @@ footer a:hover{
 	#get-involved .hacker-reg, #get-involved .help-reg{
 	
 		  display: block;
-	}
+  }
 
-
-
+  #get-involved .join-box{
+    padding: 2.25rem;
+    margin: 5rem;
+    width: 400px;
+    text-align: left;
+    border: 3px solid #f9f9f9;
+    border-radius: 15px;
+    background-color: #f9f9f9;
+    opacity: 0.8;
 
 }
 
+  #get-involved .row{
+    width: 1024px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .speech-bubble {
+    position: relative;
+    background: #9788af;
+    border-radius: .4em;
+  }
+  
+  .speech-bubble:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 50%;
+    width: 0;
+    height: 0;
+    border: 2px solid transparent;
+    border-bottom-color: #9788af;
+    border-top: 0;
+    border-left: 0;
+    margin-left: 0px;
+    margin-top: 0px;
+  }
 
+}
