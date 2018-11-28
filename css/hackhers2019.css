@@ -1,4 +1,4 @@
- body{
+body{
   overflow-x: hidden;
 }
 
@@ -6,10 +6,6 @@ a{
   text-decoration: #0a4e6b;
 }
 
-b{
-  text-decoration: #0a4e6b;
-  font-weight: bold;
-}
 
 a:hover{
   transition: all .3s ease-in-out;
@@ -519,6 +515,7 @@ each section will be a gradient*/
   display: inline-block;
   position: relative;
   z-index: 1;
+  text-align:center;
 }
 
 .team .team-wrapper .lead{
@@ -528,6 +525,7 @@ each section will be a gradient*/
   left: 4px;
   right: 4px;
   top: 0;
+  text-align:center;
 }
 
 #team h4, #team h6{
@@ -539,9 +537,9 @@ each section will be a gradient*/
 }
 
 #team .team-wrapper img{
-  height: 150px;
-  width: 150px;
-  border-radius: 100%;
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
 }
 
 
@@ -679,10 +677,12 @@ footer a:hover{
 
   #team {
     padding: 0;
+    text-align:center;
   }
 
   #team .row{
     padding: 0;
+    text-align:center;
   }
 
   #about-text{
