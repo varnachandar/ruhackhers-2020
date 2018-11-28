@@ -10,8 +10,7 @@ a{
 a:hover{
   transition: all .3s ease-in-out;
   text-decoration: none;
-  color: #0a4e6b;
-  font-weight: bold;
+  color: #83c2dd;
 }
 
 
@@ -145,8 +144,7 @@ section h1{
   margin-top: -4rem;
   padding-top: 10px;
   font-weight: 600;
-  color: #9783c0;
-  /*text-transform: lowercase;*/
+	color: #f9f9f9;
 
 }
 
@@ -198,7 +196,6 @@ each section will be a gradient*/
   background: -moz-linear-gradient(#406370, #3d3f41); /* For Firefox 3.6 to 15 */
   background: linear-gradient(#406370, #3d3f41);
   color: #685d80;
-  text-transform: lowercase;
 }
 
 
@@ -245,6 +242,20 @@ each section will be a gradient*/
   font-weight: 600;
   text-transform: lowercase;
 
+}
+
+#hero-text h3{
+  font-size: 38px;
+  font-weight: 600;
+  text-transform: lowercase;
+  color: #9783c0;
+}
+
+#hero-text h4{
+  font-size: 38px;
+  font-weight: 600;
+  text-transform: lowercase;
+  color: #b3b3b3de;
 }
 
 .img-txt #about-img{
@@ -324,9 +335,29 @@ each section will be a gradient*/
 
 /*schedule related styling*/
 
+#schedule .btn {
+	padding: 20px;
+	margin: 20px;
+	background-color:#8b79bc;
+	border: 3px  #8b79bc;
+	opacity: .95;
+	border-radius: 15px;
+	text-align: center;
+  box-shadow: 0 2px 2px  #090909;
+  font-weight: bold;
+  color: white;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#schedule .btn:hover{
+  background-color:#335c91;
+  border-color:#335c91;
+	color: white;
+	transition: all .3s ease-in-out;
+}
 
 #schedule h1 {
-	color: #9783c0;
+	color: #f9f9f9;
 }
 
 #saturday, #sunday{
@@ -376,7 +407,7 @@ each section will be a gradient*/
 /* sponsors styling*/
 
 #sponsors h1 {
-	color: #9783c0;
+	color: #f9f9f9;
 }
 
 #sponsors h3, #sponsors h4{
@@ -465,7 +496,7 @@ each section will be a gradient*/
 }
 
 #get-involved h1 {
-	color: #9783c0;
+	color: #f9f9f9;
 }
 
 #get-involved a{
@@ -490,9 +521,9 @@ each section will be a gradient*/
 }
 
 #get-involved .btn:hover{
-    background-color:#756c8d;
-    border-color:#756c8d;
-	color: #756c8d;
+  background-color:#335c91;
+  border-color:#335c91;
+	color: white;
 	transition: all .3s ease-in-out;
 }
 
@@ -506,7 +537,7 @@ each section will be a gradient*/
 /*team styling*/
 
 #team h1 {
-	color: #9783c0;
+	color: #f9f9f9;
 }
 
 #team .row{
@@ -758,9 +789,6 @@ footer a:hover{
 		margin: 40px;
 	}
 
-
-
-  
   #filler-1, #filler-2 {
 		display: none;
 	}
@@ -824,7 +852,9 @@ footer a:hover{
   }
   
   #hero-text h1{
-  	font-size: 30px;
+    font-size: 30px;
+      color: #f9f9f9;
+    
   }
 
   #hero-text h2{
