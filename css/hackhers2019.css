@@ -3,29 +3,29 @@ body{
 }
 
 a{
-  text-decoration: #0a4e6b;
+  color:#679BDC;
 }
 
 
 a:hover{
   transition: all .3s ease-in-out;
   text-decoration: none;
-  color: #83c2dd;
+  color: #ACD3EC;
 }
 
 
 ::selection {
-  background: #9783c0;
+  background: #033472;
   color: #f9f9f9;
 }
 
 ::-moz-selection {
-    background: #9783c0;
+    background: #033472;
   	color: #f9f9f9;
 }
 
 ::-webkit-selection {
-    background: #9783c0;
+    background: #033472;
   	color: #f9f9f9;
 }
 
@@ -35,9 +35,9 @@ a:hover{
 .navbar{
   border-radius: 0;
   height: 80px;
-  background-color: #839fc0;
-  border-bottom: 1px solid #839fc0;
-  box-shadow: 0 0 5px 0 #839fc0;
+  background-color: #033472;
+  border-bottom: 1px solid #063268;
+  box-shadow: 0 0 5px 0 #063268;
   margin-bottom: 0;
   text-align: center;
   font-family: 'Montserrat' ;
@@ -67,7 +67,7 @@ should be cleared when going to a different res size*/
 
 .navbar-nav > li > a:hover {
     background-color: transparent;
-    color: #fcb9f9;
+    color: #a3dce9;
     transition: all .3s ease-in-out;
 }
 
@@ -120,7 +120,7 @@ list-inline > li {
 .btn-outline {
     margin-top: 15px;
     font-size: 30px;
-    color: #9783c0;
+    color: #033472;
     background: 0 0;
 }
 
@@ -152,6 +152,7 @@ section h1{
   top: 0;
   background-color: #e2f7ff;
   text-align: center;
+  text-transform:capitalize;
 
 }
 
@@ -162,12 +163,12 @@ section h1{
 with the exception of the hero and footer
 each section will be a gradient*/
 #about{
-    background: #e2f7ff; /* For browsers that do not support gradients */
-    background: -webkit-linear-gradient(#e2f7ff, #a5d1e0); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(#e2f7ff, #a5d1e0); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(#e2f7ff, #a5d1e0); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(#e2f7ff, #a5d1e0);
-    color: #685d80;
+    background: #ffffff; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#ffffff, #dfdfe4); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#ffffff, #dfdfe4); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#ffffff, #dfdfe4); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#ffffff, #dfdfe4);
+    color: #033472;
 
 }
 
