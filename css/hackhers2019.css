@@ -168,55 +168,55 @@ each section will be a gradient*/
     background: -o-linear-gradient(#ffffff, #dfdfe4); /* For Opera 11.1 to 12.0 */
     background: -moz-linear-gradient(#ffffff, #dfdfe4); /* For Firefox 3.6 to 15 */
     background: linear-gradient(#ffffff, #dfdfe4);
-    color: #033472;
+    color: #f9f9f9;
 
 }
 
 #get-involved{
-  background: #a5d1e0; /* For browsers that do not support gradients */
-  background: -webkit-linear-gradient(#a5d1e0, #67a3b9); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(#a5d1e0, #67a3b9); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(#a5d1e0, #67a3b9); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(#a5d1e0, #67a3b9);
-  color: #685d80;
+  background: #dfdfe4; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(#dfdfe4, #b5b5bf); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#dfdfe4, #b5b5bf); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#dfdfe4, #b5b5bf); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#dfdfe4, #b5b5bf);
+  color: #f9f9f9;
 }
 
 #schedule{
-  background: #67a3b9; /* For browsers that do not support gradients */
-  background: -webkit-linear-gradient(#67a3b9, #406370); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(#67a3b9, #406370); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(#67a3b9, #406370); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(#67a3b9, #406370);
+  background: #b5b5bf; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(#b5b5bf, #8b8b9b); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#b5b5bf, #8b8b9b); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#b5b5bf, #8b8b9b); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#b5b5bf, #8b8b9b);
   color: #f9f9f9;
 }
 
 #faq{
-  background: #406370; /* For browsers that do not support gradients */
-  background: -webkit-linear-gradient(#406370, #3d3f41); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(#406370, #3d3f41); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(#406370, #3d3f41); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(#406370, #3d3f41);
-  color: #685d80;
+  background: #8b8b9b; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(#8b8b9b, #5b5b69); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#8b8b9b, #5b5b69); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#8b8b9b, #5b5b69); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#8b8b9b, #5b5b69);
+  color: #f9f9f9;
 }
 
 
 #sponsors{
-  background: #3d3f41; /* For browsers that do not support gradients */
-  background: -webkit-linear-gradient(#3d3f41, #202020); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(#3d3f41, #202020); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(#3d3f41, #202020); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(#3d3f41, #202020);
-  color: #685d80;
+  background: #5b5b69; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(#5b5b69, #36363f); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#5b5b69, #36363f); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#5b5b69, #36363f); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#5b5b69, #36363f);
+  color: #f9f9f9;
 
 }
 
 #team{
-  background: #202020; /* For browsers that do not support gradients */
-  background: -webkit-linear-gradient(#202020, #222222); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(#202020, #222222); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(#202020, #222222); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(#202020, #222222);
-  color: #9783c0;
+  background: #36363f; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(#36363f, #1b1b20); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#36363f, #1b1b20); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#36363f, #1b1b20); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#36363f, #1b1b20);
+  color: #f9f9f9;
 }
 
 /*hero section styles*/
