@@ -229,33 +229,33 @@ each section will be a gradient*/
 #hero-text{
   width: 100%;
   font-family: 'Montserrat';
-  color: #9783c0;
+  color: #033472;
 }
 
 #hero-text h1{
   font-size: 38px;
   font-weight: 600;
-  text-transform: lowercase;
+  text-transform: capitalize;
 }
 
 #hero-text h2{
   font-size: 25px;
   font-weight: 600;
-  text-transform: lowercase;
+  text-transform: capitalize;
 
 }
 
 #hero-text h3{
   font-size: 38px;
   font-weight: 600;
-  text-transform: lowercase;
-  color: #9783c0;
+  text-transform: capitalize;
+  color: #033472;
 }
 
 #hero-text h4{
   font-size: 38px;
   font-weight: 600;
-  text-transform: lowercase;
+  text-transform: capitalize;
   color: #b3b3b3de;
 }
 
@@ -277,7 +277,7 @@ each section will be a gradient*/
   font-size: 18px;
   font-weight: 400;
   font-family: 'Montserrat';
-  color: #1a0b31;
+  color: #0C0F3C;
 }
 
 #faq .row{
@@ -316,7 +316,7 @@ each section will be a gradient*/
 
 }
 #faq h4{
-  color: #9783c0;
+  color: #7186BC;
   font-size: 22px;
   font-weight: 600;
   text-transform: none;
@@ -324,13 +324,13 @@ each section will be a gradient*/
 }
 
 #faq p {
-    border-top: 2px solid #1a0b31;
+    border-top: 2px solid #0C0F3C;
     padding-top: 20px;
     margin-top: 1rem;
     font-size: 16px;
     font-weight: 400;
     font-family: 'Montserrat';
-    color: #1a0b31;
+    color: #0C0F3C;
 }
 
 
@@ -339,8 +339,8 @@ each section will be a gradient*/
 #schedule .btn {
 	padding: 20px;
 	margin: 20px;
-	background-color:#8b79bc;
-	border: 3px  #8b79bc;
+	background-color:#8191C7;
+	border: 3px  #8191C7;
 	opacity: .95;
 	border-radius: 15px;
 	text-align: center;
@@ -397,7 +397,7 @@ each section will be a gradient*/
 }
 
 .events li{
-  color: #f7d5f7;
+  color: #E6D2FF;
   margin-left: 5px;
   list-style-type: none;
   text-align: left;
@@ -412,7 +412,7 @@ each section will be a gradient*/
 }
 
 #sponsors h3, #sponsors h4{
-  color: #f7d5f7;
+  color: #E6D2FF;
 }
 
 .sponsorship-wrapper{
@@ -510,8 +510,8 @@ each section will be a gradient*/
 #get-involved .btn {
 	padding: 20px;
 	margin: 20px;
-	background-color:#8b79bc;
-	border: 3px  #8b79bc;
+	background-color:#e2f7ff;
+	border: 3px  #e2f7ff;
 	opacity: .95;
 	border-radius: 15px;
 	text-align: center;
@@ -522,8 +522,8 @@ each section will be a gradient*/
 }
 
 #get-involved .btn:hover{
-  background-color:#335c91;
-  border-color:#335c91;
+  background-color:#033472;
+  border-color:#033472;
 	color: white;
 	transition: all .3s ease-in-out;
 }
@@ -1018,7 +1018,7 @@ footer a:hover{
   }
   .speech-bubble {
     position: relative;
-    background: #9788af;
+    background: #033472;
     border-radius: .4em;
   }
   
@@ -1030,7 +1030,7 @@ footer a:hover{
     width: 0;
     height: 0;
     border: 2px solid transparent;
-    border-bottom-color: #9788af;
+    border-bottom-color: #033472;
     border-top: 0;
     border-left: 0;
     margin-left: 0px;
