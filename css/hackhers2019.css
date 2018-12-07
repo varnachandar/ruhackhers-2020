@@ -350,8 +350,8 @@ each section will be a gradient*/
 }
 
 #schedule .btn:hover{
-  background-color:#335c91;
-  border-color:#335c91;
+  background-color:#033472;
+  border-color:#033472;
 	color: white;
 	transition: all .3s ease-in-out;
 }
@@ -496,7 +496,7 @@ each section will be a gradient*/
 }
 
 #get-involved h1 {
-	color: #f9f9f9;
+	color: #033472;
 }
 
 #get-involved a{
@@ -509,8 +509,8 @@ each section will be a gradient*/
 #get-involved .btn {
 	padding: 20px;
 	margin: 20px;
-	background-color:#e2f7ff;
-	border: 3px  #e2f7ff;
+	background-color:#8191C7;
+	border: 3px  #8191C7;
 	opacity: .95;
 	border-radius: 15px;
 	text-align: center;
