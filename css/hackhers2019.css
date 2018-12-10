@@ -650,8 +650,8 @@ footer a:hover{
   
   
   #nav-shell{
-    height: 100px;
-    width: 100px;
+    height: auto;
+    width: auto;
   }
 
   #myNavbar{
