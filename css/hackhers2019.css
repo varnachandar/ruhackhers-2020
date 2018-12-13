@@ -6,6 +6,9 @@ a{
   color:#679BDC;
 }
 
+b{
+  color: #679BDC;
+}
 
 a:hover{
   transition: all .3s ease-in-out;
@@ -647,8 +650,8 @@ footer a:hover{
     color: #f9f9f9;
     transition: all .3s ease-in-out;
   }
-  
-  
+
+
   #myNavbar .img{
     max-height: 35px;
     max-width: 35px;
@@ -670,15 +673,15 @@ footer a:hover{
     display: inline-block;
     padding: 0 50px;
   }
-  
+
   #navbar-right{
     float: none;
     display: inline-block;
     padding: 0 50px;
 
   }
-  
-  
+
+
 
   .icon-bar{
     display:block;
@@ -740,7 +743,7 @@ footer a:hover{
       box-sizing: border-box;
       vertical-align: top;
   }
-  
+
   	.times li{
   		font-size: 14px;
 	}
@@ -748,13 +751,13 @@ footer a:hover{
 	.events li{
  		font-size: 14px;
 	}
-  
+
   	#lockeed, #jpmorgan, #vanguard{
 		width: 400px;
 		height: auto;
 		margin: 0 auto;
 	}
-	
+
 	#verizon{
 		width: 245px;
 		height: auto;
@@ -766,7 +769,7 @@ footer a:hover{
 		height: auto;
 		margin: 25px;
 	}
-	
+
 	#icims, #capital-one{
 		width: 200px;
 		height: auto;
@@ -778,7 +781,7 @@ footer a:hover{
 		height: auto;
 		margin: 20px;
 	}
-	
+
 	#knowledgent{
 		width: 225px;
 		height: auto;
@@ -818,7 +821,7 @@ footer a:hover{
     border:3px solid #213355;
     border-radius:4px
   }
-  
+
   .navbar-toggle:hover{
     background-color:#213355;
     color: #f9f9f9;
@@ -830,12 +833,12 @@ footer a:hover{
    	padding: 30px;
     color: #f9f9f9;
   }
-  
+
   #navbar-left{
-	margin-left: 20px;	
+	margin-left: 20px;
   }
   #navbar-right{
-	margin-right: 20px;	
+	margin-right: 20px;
   }
 
   .icon-bar{
@@ -846,11 +849,11 @@ footer a:hover{
     border:1px solid #f9f9f9;
 
   }
-  
+
   #hero-text h1{
     font-size: 30px;
       color: #f9f9f9;
-    
+
   }
 
   #hero-text h2{
@@ -866,7 +869,7 @@ footer a:hover{
     width: 100%;
 
   }
-  
+
   #about-text p{
       font-size: 14px;
   }
@@ -891,7 +894,7 @@ footer a:hover{
       text-align: left;
 
   }
-  
+
   #faq h4{
   	font-size: 22px;
 
@@ -912,8 +915,8 @@ footer a:hover{
         float: none;
         position: relative;
     }
-    
-    
+
+
 	.times li{
   		font-size: 12px;
 	}
@@ -921,8 +924,8 @@ footer a:hover{
 	.events li{
  		font-size: 12px;
 	}
-	
-	
+
+
 	#drc {
 		width: 150px;
 		height: auto;
@@ -934,13 +937,13 @@ footer a:hover{
 		height: auto;
 	}
 
-	
+
 	#lockeed, #jpmorgan, #vanguard{
 		width: 275px;
 		height: auto;
 		margin: 25px auto;
 	}
-	
+
 	#verizon{
 		width: 225px;
 		height: auto;
@@ -952,8 +955,8 @@ footer a:hover{
 		height: auto;
 		margin: 25px;
 	}
-	
-	
+
+
 	#icims, #capital-one{
 		width: 175px;
 		height: auto;
@@ -965,7 +968,7 @@ footer a:hover{
 		height: auto;
 		margin: 30px;
 	}
-	
+
 	#knowledgent{
 		width: 200px;
 		height: auto;
@@ -976,15 +979,15 @@ footer a:hover{
 
 	#team .team-wrapper{
 		width: 100%;
-		
+
 	}
-	
+
 	#filler-1, #filler-2 {
 		display: none;
 	}
-	
+
 	#get-involved .hacker-reg, #get-involved .help-reg{
-	
+
 		  display: block;
   }
 
@@ -1010,7 +1013,7 @@ footer a:hover{
     background: #033472;
     border-radius: .4em;
   }
-  
+
   .speech-bubble:after {
     content: '';
     position: absolute;
