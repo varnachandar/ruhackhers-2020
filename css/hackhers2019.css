@@ -456,13 +456,13 @@ each section will be a gradient*/
 	height: auto;
 }
 
-#lockeed, #jpmorgan, #vanguard{
+#gold-sponsors{
 	width: 565px;
 	height: auto;
 	margin: 25px;
 }
 
-#verizon{
+/*#verizon{
 	width: 350px;
 	height: auto;
 	margin: 45px;
@@ -472,26 +472,22 @@ each section will be a gradient*/
 	width: 200px;
 	height: auto;
 	margin: 45px;
-}
+}*/
 
-#icims, #capital-one{
-	width: 268px;
+#silver-sponsors{
+	width: 350px;
 	height: auto;
 	margin: 25px;
 
 }
 
-#facebook, #bloomberg, #prudential{
-	width: 200px;
-	height: auto;
-	margin: 40px;
+#bronze-sponsors{
+  width: 268px;
+  height: auto;
+  margin: 25px;
+
 }
 
-#knowledgent{
-	width: 250px;
-	height: auto;
-	margin: 40px;
-}
 
 /* registration styling */
 
